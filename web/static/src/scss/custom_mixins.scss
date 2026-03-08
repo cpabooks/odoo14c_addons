@@ -1,0 +1,9 @@
+@mixin o-hide-details-caret {
+  details {
+    summary {
+      list-style-type: none;
+    }
+  }
+}
+
+
